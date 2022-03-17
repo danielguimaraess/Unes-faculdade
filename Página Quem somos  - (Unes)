@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNES - Quem somos</title>
+    <style>
+        * {
+            
+        }
+        
+        body {
+            background-color: rgba(223, 219, 245, 0.822);
+            font-family: Arial, Helvetica, sans-serif;
+
+        }
+
+        a {
+            color: rgb(0, 0, 0);
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        p {
+            color: rgb(0, 0, 0);
+            font-family: Arial, Helvetica, sans-serif
+        }
+
+        button {
+            background-color: rgb(255, 255, 255);
+            color: #ffffff;
+            border: none;
+            padding: 2px;
+            width: 15%;
+            border-radius: 16px;
+            font-size: 15px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        button:hover {
+            background-color: rgb(47, 0, 255);
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    
+    <table border="0" width="900" align="center">
+        <tr>
+            <td height="89"><img src="imagens/logo.png" alt="logo"></td>
+            <td align="right">
+            
+                <button><a href="teladeloginesenha.html">Login</a></button>
+                
+                <button><a href="index.html">Home</a></button>
+                
+                <button><a href="quemsomos.html">Unes</a></button>
+                
+                <button><a href="contato.html">Contato</a></button>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2">
+                <h1>Sobre a Universidade - Quem somos!</h1>
+
+                <p>A Universidade dos teus sonhos nunca esteve tão perto de você! Aproveite a oportunidade de usar a sua nota do Enem para ingressar na
+                <strong>UNES.</strong>
+                </p>
+                
+              
+
+                <h2>5 motivos para estudar</h2>
+
+                <ol>
+                    <li>Material sempre atualizado.</li>
+                    <li>Tablets e notebooks em sala de aula.</li>
+                    <li>Professores renomados.</li>
+                    <li>Universidade bem avaliada</li>
+                    <li>Ótima localização.</li>
+
+                </ol>
+
+                <hr>
+                
+
+                <h2>Ingresso Simplificado</h2> 
+
+                <p>Comece a sua graduação de uma forma simples e rápida: Use apenas seu <strong>Histórico Escolar.</strong> <br>
+                <a href="Inscreva-se já!">Inscreva-se!</a></p> 
+    
+                <h2>Vestibular</h2>
+                
+                <p>Presencial ou online, tenha a liberdade de escolher o dia e a hora da sua prova. <br> 
+                <a href="Inscreva-se já">Inscreva-se já!</a> 
+                </p>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2" align="center">
+                <hr>
+                <h4>Todos os direitos reservados</h4>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
