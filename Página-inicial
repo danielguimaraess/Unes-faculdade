@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNES - Página principal</title>
+    <style>
+        body {
+            background-image: linear-gradient(98deg, rgb(47, 0, 255), rgb(174, 0, 255));
+            
+
+        }
+
+        a {
+            color: rgb(255, 255, 255);
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        h2 {
+            color: rgb(255, 255, 255);
+        }
+
+        p {
+            color: rgb(0, 0, 0);
+        }
+
+        button {
+            background-color: rgb(48, 48, 53);
+            border: none;
+            padding: 2px;
+            width: 15%;
+            border-radius: 16px;
+            color: rgb(255, 255, 255);
+            font-size: 15px;
+        }
+        
+        button:hover{
+            background-color: rgb(47, 0, 255);
+            cursor: pointer;
+        }
+
+        h4 {
+            color: rgb(255, 255, 255);
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+</head>
+<body background="imagens/fundo2.png">
+    
+    <table border="0" width="900" align="center">
+        <tr>
+            <td height="89"><img src="imagens/logo.png" alt="logo"></td>
+            <td align="right">
+                <button><a href="teladeloginesenha.html">Login</a></button>
+                <button><a href="index.html">Home</a></button>
+                <button><a href="quemsomos.html">Unes</a></button>
+                <button><a href="contato.html">Contato</a></button>
+            </td>
+        </tr>
+
+
+        <tr>
+            <td colspan="2">
+                <img src="imagens/capa.png" alt="capa">
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2">
+
+                
+                
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2" align="center">
+                <br> <br>
+
+                <hr>
+
+                <br>
+                <h4>Todos os direitos reservados</h4>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
